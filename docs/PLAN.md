@@ -4,7 +4,7 @@
 
 | Component | Status |
 |---|---|
-| Private GitHub origin and sourcehut mirror; MIT license | Implemented |
+| Public GitHub origin and sourcehut mirror; MIT license | Implemented |
 | CPU sessions and input/output metadata | Implemented |
 | F32, I32 and I64 tensors, scalar/empty shapes, storage slices | Implemented |
 | Native execution and run termination | Implemented |
