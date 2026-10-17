@@ -1,0 +1,3 @@
+*.fasl
+.native/
+__pycache__/
